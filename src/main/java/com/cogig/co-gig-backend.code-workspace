@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../Co-Gig-Full-Modified-Booking-Language"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Co-Gig-Full-Modified-Booking-Language",
+		"liveServer.settings.port": 5501
+	}
+}
